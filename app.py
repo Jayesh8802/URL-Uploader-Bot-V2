@@ -3,7 +3,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello_world():
-    return 'URL-Uploader-Bot'
+    return '@UploadLinkToFileBot'
 
 
 if __name__ == "__main__":
